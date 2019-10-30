@@ -1,6 +1,6 @@
 owner=601918280159985666
 prefix=b
-game=Berlin
+game=play
 stayinchannel=true
 songinstatus=false
 token=NjM5MTEzNzkyODg1ODgyOTAx.Xbmjdw.ZFlXANHpdK1aYn9LsAF1PbaSNuY
